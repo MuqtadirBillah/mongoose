@@ -4,7 +4,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   env: {
-    MongoDB_Password:'Muqtadir4',
+    MongoDB_Password:'',
   }
 }
 
